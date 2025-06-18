@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 - [x] User can change the number of letters per row (the length of the goal word)
 - [x] User can change the numbers of rows on the board (how many guesses allowed)
 - [x] User can select a new themed set to pull the goal word from (Normal, Animals, Countries)
-- [x] User can toggle "Alien Wordle", causing the goal word to change after each guess
+- [x] User can toggle "Alien Wordle," causing the goal word to change after each guess
 
 ---
 
