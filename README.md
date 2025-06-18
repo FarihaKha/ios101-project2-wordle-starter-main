@@ -30,8 +30,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 **Demo Video**:  
-[![Wordle Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
-*(Replace with your Loom/YouTube link)*
+[![Wordle Demo](https://www.loom.com/share/42a92226ba964484884630a762594903?sid=d838ef26-c134-470e-8221-049a37d8fbdd)  
 
 ---
 
